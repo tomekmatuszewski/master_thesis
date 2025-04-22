@@ -1,0 +1,8 @@
+.venv
+venv
+__pycache__
+
+plugins
+spark-warehouse
+logs
+metastore_db

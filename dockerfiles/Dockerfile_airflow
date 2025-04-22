@@ -1,0 +1,14 @@
+
+FROM apache/airflow:2.10.5-python3.10
+COPY ./requirements_airflow.txt .
+RUN pip install -r requirements_airflow.txt
+# Install JDK
+USER root
+RUN apt-get update --fix-missing
+RUN apt-get install -y default-jdk chromium chromium-driver
+RUN apt-get autoremove -yqq --purge
+RUN apt-get clean
+RUN rm -rf /var/lib/apt/lists/
+
+RUN echo 'export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64' >> ~/.bashrc  \
+    && echo 'export PATH=$JAVA_HOME/bin:$PATH' >> ~/.bashrc

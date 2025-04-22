@@ -1,0 +1,26 @@
+season_start,season_end,season,playoff_start_date,finals_start_date,finals_end_date,season_type,season_length_days,champion,runner_up
+01-10-2000,30-06-2001,2000_01,15-04-2001,01-06-2001,14-06-2001,Normal,272,Los Angeles Lakers,Philadelphia 76ers
+01-10-2001,30-06-2002,2001_02,15-04-2002,01-06-2002,12-06-2002,Normal,272,Los Angeles Lakers,New Jersey Nets
+01-10-2002,30-06-2003,2002_03,15-04-2003,01-06-2003,15-06-2003,Normal,272,San Antonio Spurs,New Jersey Nets
+01-10-2003,30-06-2004,2003_04,15-04-2004,01-06-2004,15-06-2004,Normal,273,Detroit Pistons,Los Angeles Lakers
+01-10-2004,30-06-2005,2004_05,15-04-2005,01-06-2005,16-06-2005,Normal,272,San Antonio Spurs,Detroit Pistons
+01-10-2005,30-06-2006,2005_06,15-04-2006,01-06-2006,20-06-2006,Normal,272,Miami Heat,Dallas Mavericks
+01-10-2006,30-06-2007,2006_07,15-04-2007,01-06-2007,14-06-2007,Normal,272,San Antonio Spurs,Cleveland Cavaliers
+01-10-2007,30-06-2008,2007_08,15-04-2008,01-06-2008,15-06-2008,Normal,273,Boston Celtics,Los Angeles Lakers
+01-10-2008,30-06-2009,2008_09,15-04-2009,01-06-2009,14-06-2009,Normal,272,Los Angeles Lakers,Orlando Magic
+01-10-2009,30-06-2010,2009_10,15-04-2010,01-06-2010,17-06-2010,Normal,272,Los Angeles Lakers,Boston Celtics
+01-10-2010,30-06-2011,2010_11,15-04-2011,01-06-2011,12-06-2011,Normal,272,Dallas Mavericks,Miami Heat
+25-12-2011,26-06-2012,2011_12,28-04-2012,12-06-2012,21-06-2012,Lockout,184,Miami Heat,Oklahoma City Thunder
+01-10-2012,30-06-2013,2012_13,15-04-2013,01-06-2013,20-06-2013,Normal,272,Miami Heat,San Antonio Spurs
+01-10-2013,30-06-2014,2013_14,15-04-2014,01-06-2014,15-06-2014,Normal,272,San Antonio Spurs,Miami Heat
+01-10-2014,30-06-2015,2014_15,15-04-2015,01-06-2015,16-06-2015,Normal,272,Golden State Warriors,Cleveland Cavaliers
+01-10-2015,30-06-2016,2015_16,15-04-2016,01-06-2016,19-06-2016,Normal,273,Cleveland Cavaliers,Golden State Warriors
+01-10-2016,30-06-2017,2016_17,15-04-2017,01-06-2017,12-06-2017,Normal,272,Golden State Warriors,Cleveland Cavaliers
+01-10-2017,30-06-2018,2017_18,15-04-2018,01-06-2018,08-06-2018,Normal,272,Golden State Warriors,Cleveland Cavaliers
+01-10-2018,30-06-2019,2018_19,15-04-2019,01-06-2019,13-06-2019,Normal,272,Toronto Raptors,Golden State Warriors
+22-10-2019,11-10-2020,2019_20,17-08-2020,30-09-2020,11-10-2020,COVID-19,355,Los Angeles Lakers,Miami Heat
+22-12-2020,20-07-2021,2020_21,22-05-2021,06-07-2021,20-07-2021,COVID-19,210,Milwaukee Bucks,Phoenix Suns
+01-10-2021,30-06-2022,2021_22,15-04-2022,01-06-2022,16-06-2022,Normal,272,Golden State Warriors,Boston Celtics
+01-10-2022,30-06-2023,2022_23,15-04-2023,01-06-2023,12-06-2023,Normal,272,Denver Nuggets,Miami Heat
+01-10-2023,30-06-2024,2023_24,15-04-2024,01-06-2024,17-06-2024,Normal,273,Boston Celtics,Dallas Mavericks
+01-10-2024,30-06-2025,2024_25,15-04-2025,01-06-2025,TBD,Normal,272,TBD,TBD

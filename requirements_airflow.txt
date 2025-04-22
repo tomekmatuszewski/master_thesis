@@ -1,0 +1,10 @@
+requests
+python-dotenv
+pyspark
+lxml
+beautifulsoup4
+apache-airflow-providers-apache-spark
+apache-airflow-providers-postgres
+selenium
+webdriver-manager
+aiohttp

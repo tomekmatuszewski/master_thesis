@@ -1,0 +1,8 @@
+requests
+python-dotenv
+lxml
+beautifulsoup4
+selenium
+webdriver-manager
+aiohttp
+pyspark

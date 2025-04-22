@@ -1,0 +1,12 @@
+FROM tabulario/spark-iceberg:3.5.5_1.8.1
+COPY ./requirements_spark.txt .
+RUN pip install -r requirements_spark.txt
+# USER root
+
+USER root
+RUN apt-get update
+RUN apt-get upgrade -y
+RUN apt-get install -y default-jdk chromium chromium-driver
+RUN apt-get autoremove -yqq --purge
+RUN apt-get clean
+RUN rm -rf /var/lib/apt/lists/
